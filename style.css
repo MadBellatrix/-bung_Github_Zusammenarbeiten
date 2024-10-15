@@ -7,4 +7,10 @@ h1{
     border-bottom: 2px solid green;
 }
 
+ul,u,li{
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 /* hier mal ein Sinnloskommentar*/
